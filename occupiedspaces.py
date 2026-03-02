@@ -9,4 +9,4 @@ def occupied():
         if (y[i] == "C" and t[i] == "C"):
             x = x + 1
     print(x)
-occupied()
+occupied()455t
