@@ -6,7 +6,7 @@ def mango():
     for i in letters:
         if i == honeel[x]:
             x +=1
-        if x >= 4:
+        if x == 4:
             x = 0
             HONI += 1
     print(HONI)
